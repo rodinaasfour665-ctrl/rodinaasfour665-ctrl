@@ -21,37 +21,21 @@
 ## 👩‍💻 About Me
 
 ```python
-class RodinaSabry:
-    def __init__(self):
-        self.name        = "Rodina Sabry Mostafa"
-        self.role        = "CS Student & AI Builder"
-        self.university  = "Egyptian Chinese University (ECU)"
-        self.degree      = "BSc Computer Science & Information Systems"
-        self.graduation  = 2027
-        self.location    = "Cairo, Egypt 🇪🇬"
 
-    @property
-    def interests(self):
-        return [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Data Engineering",
-        ]
+Hi, I'm Rodina Sabry — a Computer Science student at Egyptian Chinese University (ECU), Cairo, Egypt, expected to graduate in 2027.
 
-    @property
-    def currently(self):
-        return {
-            "seeking"  : ["ML Engineer Intern", "AI Engineer Intern", "Freelance AI/Data Projects"],
-            "building" : "Intelligent, real-world AI systems",
-            "learning" : "MLOps, Deep Learning, LLMs",
-        }
+I'm an AI builder who enjoys turning data into intelligent, real-world solutions. My focus areas are Machine Learning, Artificial Intelligence, Computer Vision, and Data Engineering — and I'm especially drawn to projects that create measurable impact in healthtech and edtech.
 
-    def mission(self):
-        return (
-            "Turning raw data into intelligent solutions that create measurable impact — "
-            "especially in healthtech and edtech."
-        )
+I build end-to-end systems: from data pipelines and model training to deployment and explainability. I care about writing clean, production-style code and shipping things that actually work.
+
+Currently, I'm actively seeking ML Engineer or AI Engineer internships, and I'm open to freelance opportunities in AI and data engineering.
+
+
+🎓 BSc Computer Science & Information Systems — Egyptian Chinese University
+📍 Cairo, Egypt
+🔍 Open to: Internships · Freelance · Remote Collaborations
+🌱 Currently deepening: MLOps · Deep Learning · LLMs
+💡 Passionate about: AI that solves real problems, not just benchmarks
 ```
 
 ---
