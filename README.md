@@ -167,28 +167,7 @@ Currently working on additional AI and data engineering projects. Check back soo
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodinaasfour665-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=48CAE4&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodinaasfour665-ctrl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodinaasfour665-ctrl&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=48CAE4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodinaasfour665-ctrl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=48CAE4&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🎯 What I'm Looking For
 
