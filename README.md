@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/terminal-header.svg" alt="Rodina Sabry animated banner" width="100%" />
+<img src="./assets/terminal-header.svg" alt="Rodina Sabry animated terminal header" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C78B8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodina-sabry-b79b95354)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-242A46?style=flat-square&logo=github&logoColor=white)](https://github.com/rodinaasfour665-ctrl)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-7C6CCB?style=flat-square&logo=gmail&logoColor=white)](mailto:rodinaasfour665@gmail.com)
+<a href="https://www.linkedin.com/in/rodina-sabry-b79b95354"><img src="https://img.shields.io/badge/LinkedIn-Connect-7A5B3A?style=for-the-badge&logo=linkedin&logoColor=F8F1E5" alt="LinkedIn"/></a>
+<a href="https://github.com/rodinaasfour665-ctrl"><img src="https://img.shields.io/badge/GitHub-Projects-4A3B2E?style=for-the-badge&logo=github&logoColor=F8F1E5" alt="GitHub"/></a>
+<a href="mailto:rodinaasfour665@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-9A7443?style=for-the-badge&logo=gmail&logoColor=F8F1E5" alt="Email"/></a>
 
 </div>
 
@@ -18,27 +18,37 @@ I enjoy working on the full journey of a project — from data preparation and m
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-1f2b4d?style=flat-square&logo=python&logoColor=ffd54f)
-![C++](https://img.shields.io/badge/C++-1f2b4d?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1f2b4d?style=flat-square&logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-29375b?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-29375b?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-34335e?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-34335e?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-34335e?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-34335e?style=flat-square&logo=apachekafka&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-34335e?style=flat-square&logo=streamlit&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-5B4630?style=for-the-badge&logo=python&logoColor=F6D77B" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-5B4630?style=for-the-badge&logo=cplusplus&logoColor=F8F1E5" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-5B4630?style=for-the-badge&logo=postgresql&logoColor=F8F1E5" alt="SQL" />
+  <img src="https://img.shields.io/badge/Scikit--learn-6A5136?style=for-the-badge&logo=scikitlearn&logoColor=F8F1E5" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-6A5136?style=for-the-badge&logo=tensorflow&logoColor=F8F1E5" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FastAPI-6A5136?style=for-the-badge&logo=fastapi&logoColor=F8F1E5" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-6A5136?style=for-the-badge&logo=docker&logoColor=F8F1E5" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-7A5B3A?style=for-the-badge&logo=microsoftazure&logoColor=F8F1E5" alt="Azure" />
+  <img src="https://img.shields.io/badge/Kafka-7A5B3A?style=for-the-badge&logo=apachekafka&logoColor=F8F1E5" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Streamlit-7A5B3A?style=for-the-badge&logo=streamlit&logoColor=F8F1E5" alt="Streamlit" />
+</div>
 
 ## Featured Projects
 
-### Intelligent Student Performance System (ISPS)
-Agentic academic-risk prediction platform combining **Fuzzy C-Means**, **SVM**, **SHAP explainability**, and **drift detection**, with a **FastAPI** backend for intervention workflows.
-
-### Real-Time Traffic Analytics
-End-to-end traffic intelligence pipeline using **Azure streaming services**, **XGBoost**, and a **Streamlit** interface to monitor and forecast congestion across Cairo roads.
-
-### Real-Time Big Data Fraud Detection
-Distributed fraud-detection pipeline built with **Kafka**, **Flume**, **Cassandra**, **Docker**, and **Databricks** for real-time transaction analysis.
+<table>
+<tr>
+<td width="33%" valign="top">
+<b>Intelligent Student Performance System (ISPS)</b><br/>
+Agentic academic-risk prediction platform combining <b>Fuzzy C-Means</b>, <b>SVM</b>, <b>SHAP explainability</b>, and <b>drift detection</b>, with a <b>FastAPI</b> backend for intervention workflows.
+</td>
+<td width="33%" valign="top">
+<b>Real-Time Traffic Analytics</b><br/>
+End-to-end traffic intelligence pipeline using <b>Azure streaming services</b>, <b>XGBoost</b>, and a <b>Streamlit</b> interface to monitor and forecast congestion across Cairo roads.
+</td>
+<td width="33%" valign="top">
+<b>Real-Time Big Data Fraud Detection</b><br/>
+Distributed fraud-detection pipeline built with <b>Kafka</b>, <b>Flume</b>, <b>Cassandra</b>, <b>Docker</b>, and <b>Databricks</b> for real-time transaction analysis.
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Optional extra project · Social Media Fake Profile Detector</b></summary>
