@@ -36,7 +36,7 @@ I enjoy working on the full journey of a project — from data preparation and m
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/rodinaasfour665-ctrl/Intelligent Student Performance System (ISPS)">
+<a href="[https://github.com/rodinaasfour665-ctrl/Intelligent Student Performance System (ISPS)](https://github.com/rodinaasfour665-ctrl/ISPS-Agentic-Student-Risk-Prediction.git)">
   <b>Intelligent Student Performance System (ISPS)</b>
 </a><br/>
 Agentic academic-risk prediction platform combining <b>Fuzzy C-Means</b>, <b>SVM</b>, <b>SHAP explainability</b>, and <b>drift detection</b>, with a <b>FastAPI</b> backend for intervention workflows.
