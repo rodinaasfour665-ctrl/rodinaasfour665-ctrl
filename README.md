@@ -36,15 +36,21 @@ I enjoy working on the full journey of a project — from data preparation and m
 <table>
 <tr>
 <td width="33%" valign="top">
-<b>Intelligent Student Performance System (ISPS)</b><br/>
+<a href="https://github.com/rodinaasfour665-ctrl/Intelligent Student Performance System (ISPS)">
+  <b>Intelligent Student Performance System (ISPS)</b>
+</a><br/>
 Agentic academic-risk prediction platform combining <b>Fuzzy C-Means</b>, <b>SVM</b>, <b>SHAP explainability</b>, and <b>drift detection</b>, with a <b>FastAPI</b> backend for intervention workflows.
 </td>
 <td width="33%" valign="top">
-<b>Real-Time Traffic Analytics</b><br/>
+  <a href="[https://github.com/rodinaasfour665-ctrl/PROJECT-NAME](https://github.com/rodinaasfour665-ctrl/Real-time-Traffic-Analytics.git)">
+  <b>Real-Time Traffic Analytics</b>
+</a><br/>
 End-to-end traffic intelligence pipeline using <b>Azure streaming services</b>, <b>XGBoost</b>, and a <b>Streamlit</b> interface to monitor and forecast congestion across Cairo roads.
 </td>
 <td width="33%" valign="top">
-<b>Real-Time Big Data Fraud Detection</b><br/>
+  <a href="[https://github.com/rodinaasfour665-ctrl/PROJECT-NAME](https://github.com/rodinaasfour665-ctrl/BigData-Fraud-Detection-Pipeline.git)">
+  <b>Real-Time Big Data Fraud Detection</b>
+</a><br/>
 Distributed fraud-detection pipeline built with <b>Kafka</b>, <b>Flume</b>, <b>Cassandra</b>, <b>Docker</b>, and <b>Databricks</b> for real-time transaction analysis.
 </td>
 </tr>
