@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Animated terminal introduction for Rodina Sabry">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12110f"/><stop offset="1" stop-color="#24201b"/></linearGradient>
+ <style>
+  .ui{font:15px 'Consolas','Courier New',monospace;fill:#bbab94}
+  .tag{font:18px 'Consolas','Courier New',monospace;fill:#e7bb71}
+  .name{font:bold 38px 'Consolas','Courier New',monospace;fill:#f5eee1}
+  .ascii{font:13px 'Consolas','Courier New',monospace;fill:#c4a775;white-space:pre}
+  .line{font:18px 'Consolas','Courier New',monospace;fill:#eee4d5}
+ </style>
+ <clipPath id="typer1"><rect x="74" y="220" width="0" height="30"><animate attributeName="width" values="0;0;650;650;0;0" keyTimes="0;.07;.32;.46;.49;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="typer2"><rect x="74" y="220" width="0" height="30"><animate attributeName="width" values="0;0;0;650;650;0" keyTimes="0;.49;.54;.81;.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect x="24" y="23" width="1152" height="314" rx="14" fill="#151512" stroke="#786a54" stroke-opacity=".8"/>
+<rect x="25" y="24" width="1150" height="39" rx="13" fill="#29251f"/>
+<rect x="25" y="49" width="1150" height="14" fill="#29251f"/>
+<circle cx="51" cy="44" r="6" fill="#d28d76"/><circle cx="74" cy="44" r="6" fill="#d6b578"/><circle cx="97" cy="44" r="6" fill="#8d9e78"/>
+<text x="600" y="49" class="ui" text-anchor="middle">rodina@github: ~/profile</text>
+<path d="M722 76V320" stroke="#625844" stroke-opacity=".55"/>
+<text x="74" y="101" class="tag">$ whoami</text>
+<text x="74" y="149" class="name">Rodina Sabry</text>
+<text x="74" y="179" class="ui">Computer Science  •  AI / ML  •  Data Engineering</text>
+<text x="74" y="207" class="tag">$ ./introduce.sh</text>
+<text x="74" y="243" class="line" clip-path="url(#typer1)">Building explainable, practical AI systems.</text>
+<text x="74" y="243" class="line" clip-path="url(#typer2)">From data pipelines to deployed ML products.</text>
+<rect x="75" y="221" width="11" height="25" fill="#e6bd78">
+ <animate attributeName="x" values="75;75;600;600;75;75;630;630;75" keyTimes="0;.07;.32;.46;.49;.54;.81;.95;1" dur="12s" repeatCount="indefinite"/>
+ <animate attributeName="opacity" values="1;0;1;0;1" dur=".7s" repeatCount="indefinite"/>
+</rect>
+<text x="74" y="294" class="ui">status: building  ·  focus: AI engineering  ·  location: Cairo</text>
+<text x="765" y="94" class="tag">ASCII PROFILE / R</text>
+<text x="766" y="107" class="ascii" opacity="0">           ..:::::::::::..           <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15;0.16;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="122" class="ascii" opacity="0">        .::##########*+++::..        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17;0.18;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="137" class="ascii" opacity="0">       :*##++++++++++++***##*:.      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19;0.2;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="152" class="ascii" opacity="0">      :##++:          :+***###+.     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21;0.22;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="167" class="ascii" opacity="0">      ##++:     R      :++*####:     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23;0.24;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="182" class="ascii" opacity="0">      ##++:            :++*####:     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.25;0.26;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="197" class="ascii" opacity="0">      :##*++:        :++**####+.     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.27;0.28;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="212" class="ascii" opacity="0">       .*###**+++++***######*:       <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.29;0.3;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="227" class="ascii" opacity="0">         :+##############+:.        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.31;0.32;1" dur="10s" repeatCount="indefinite"/></text><text x="766" y="242" class="ascii" opacity="0">            ..::::::::..            <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.33;0.34;1" dur="10s" repeatCount="indefinite"/></text>
+<text x="766" y="284" class="ui">placeholder portrait · custom photo optional</text>
+<text x="766" y="306" class="ui">[ preparing profile... ]</text>
+</svg>
