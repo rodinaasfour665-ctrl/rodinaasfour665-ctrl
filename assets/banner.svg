@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Rodina Sabry, AI and Machine Learning Engineer">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1024"/><stop offset="0.55" stop-color="#141934"/><stop offset="1" stop-color="#1b1740"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#73c7ff"/><stop offset="1" stop-color="#b29bff"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8495e7" stroke-opacity=".08"/></pattern>
+  <clipPath id="typing"><rect width="0" height="34"><animate attributeName="width" values="0;610;610;0" keyTimes="0;.35;.82;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="280" rx="22" fill="url(#grid)"/>
+<path d="M30 245Q310 187 585 234T1170 170" fill="none" stroke="#8e86f6" stroke-opacity=".14" stroke-width="2"/>
+<g opacity=".7"><circle cx="1038" cy="73" r="5" fill="#80d8ff"><animate attributeName="opacity" values=".25;1;.25" dur="4s" repeatCount="indefinite"/></circle><circle cx="1095" cy="118" r="3" fill="#ba9bff"><animate attributeName="opacity" values="1;.2;1" dur="5s" repeatCount="indefinite"/></circle><circle cx="972" cy="189" r="4" fill="#80d8ff"/></g>
+<rect x="60" y="49" width="154" height="29" rx="14" fill="#272c58" stroke="#5661aa" stroke-opacity=".6"/>
+<text x="77" y="69" font-size="13" font-family="Arial,sans-serif" letter-spacing="2" fill="#bcc9ff">HELLO, I'M</text>
+<text x="58" y="147" fill="white" font-size="66" font-weight="700" font-family="Arial,sans-serif">Rodina Sabry</text>
+<rect x="61" y="170" width="630" height="40" clip-path="url(#typing)"/>
+<text x="62" y="198" font-size="25" font-family="Consolas,monospace" fill="url(#accent)">Building intelligent systems with purpose.</text>
+<text x="62" y="245" fill="#adb9da" font-size="17" font-family="Arial,sans-serif">AI  /  Machine Learning  /  Data Engineering</text>
+<rect x=".5" y=".5" width="1199" height="279" rx="21" fill="none" stroke="#6b6ca1" stroke-opacity=".5"/>
+</svg>
