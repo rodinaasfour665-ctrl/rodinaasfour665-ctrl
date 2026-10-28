@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Rodina Sabry — AI & Machine Learning" width="100%" />
+<img src="./assets/terminal-header.svg" alt="Rodina Sabry animated banner" width="100%" />
 
 <br/>
 
@@ -12,90 +12,54 @@
 
 ## About Me
 
-I'm **Rodina**, a Computer Science student at **Egyptian Chinese University** (expected graduation: 2027), focused on building practical **AI, Machine Learning, and data-driven systems**.
+I'm **Rodina**, a Computer Science student at **Egyptian Chinese University**, passionate about building practical **AI, Machine Learning, and data-driven systems**.
 
-I enjoy taking projects beyond model training: designing reliable data pipelines, developing backend APIs, adding explainability, and turning predictions into usable applications. My work spans **agentic AI, real-time analytics, fraud detection, and NLP**.
-
-Currently exploring opportunities to contribute to meaningful, real-world AI and software engineering projects.
+I enjoy working on the full journey of a project — from data preparation and model development to APIs, deployment, and usable products. My interests currently center around **AI systems, ML engineering, real-time analytics, and data pipelines**.
 
 ## Tech Stack
 
-**Languages**  
 ![Python](https://img.shields.io/badge/Python-1f2b4d?style=flat-square&logo=python&logoColor=ffd54f)
 ![C++](https://img.shields.io/badge/C++-1f2b4d?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1f2b4d?style=flat-square&logo=postgresql&logoColor=white)
-
-**Machine Learning & AI**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-29375b?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-29375b?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-29375b?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-29375b?style=flat-square&logo=opencv&logoColor=white)
-
-**Engineering & Deployment**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-34335e?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-34335e?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-34335e?style=flat-square&logo=cloudflare&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-34335e?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-34335e?style=flat-square&logo=apachekafka&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-34335e?style=flat-square&logo=streamlit&logoColor=white)
 
 ## Featured Projects
 
-> Selected work across applied AI, real-time intelligence, and data engineering. No screenshots — just the engineering behind each project.
+### Intelligent Student Performance System (ISPS)
+Agentic academic-risk prediction platform combining **Fuzzy C-Means**, **SVM**, **SHAP explainability**, and **drift detection**, with a **FastAPI** backend for intervention workflows.
 
-### 01 · Intelligent Student Performance System (ISPS)
-**Agentic AI · Academic Risk Prediction · Explainability**
+### Real-Time Traffic Analytics
+End-to-end traffic intelligence pipeline using **Azure streaming services**, **XGBoost**, and a **Streamlit** interface to monitor and forecast congestion across Cairo roads.
 
-Built an academic-risk prediction system using clustering, SVM classification, SHAP-based explanations, and drift monitoring. Includes confidence-aware decision routing and a FastAPI backend for real-world intervention workflows.
-
-`Python` `FastAPI` `Scikit-learn` `SHAP` `ARIMA`  
-[Find the repository on my GitHub](https://github.com/rodinaasfour665-ctrl?tab=repositories&q=student&type=&language=&sort=)
-
----
-
-### 02 · Real-Time Traffic Analytics
-**Machine Learning · Cloud Streaming · Smart Cities**
-
-Developed a traffic intelligence pipeline for major Cairo roads using Azure streaming services and XGBoost, with congestion forecasting, cloud-fallback handling, and a Streamlit planning interface.
-
-`Python` `XGBoost` `Azure Event Hubs` `Streamlit` `Power BI`  
-[Find the repository on my GitHub](https://github.com/rodinaasfour665-ctrl?tab=repositories&q=traffic&type=&language=&sort=)
-
----
-
-### 03 · Real-Time Big Data Fraud Detection
-**Streaming Pipelines · Distributed Systems · Fraud Analytics**
-
-Engineered a streaming fraud-detection pipeline for transaction data using Kafka, Flume, Cassandra, Docker, and Databricks, with automated flagging of suspicious activity.
-
-`Apache Kafka` `Apache Flume` `Cassandra` `Docker` `Databricks`  
-[Find the repository on my GitHub](https://github.com/rodinaasfour665-ctrl?tab=repositories&q=fraud&type=&language=&sort=)
+### Real-Time Big Data Fraud Detection
+Distributed fraud-detection pipeline built with **Kafka**, **Flume**, **Cassandra**, **Docker**, and **Databricks** for real-time transaction analysis.
 
 <details>
-<summary><b>One more project · Social Media Fake Profile Detector</b></summary>
+<summary><b>Optional extra project · Social Media Fake Profile Detector</b></summary>
 <br/>
-An ML application applying feature engineering and classification to identify potentially fake social media profiles, with an interactive prediction interface.
-
-[View repository](https://github.com/rodinaasfour665-ctrl/social-media-fake-profile-detector)
+Machine learning project focused on identifying potentially fake social media accounts using feature engineering and classification.
 </details>
 
 ## Current Focus
 
-- Designing **explainable, reliable AI systems** rather than standalone model demos.
-- Building **ML-backed applications** with useful APIs and interfaces.
-- Exploring **streaming data architectures**, MLOps, and responsible AI.
+- Building **reliable AI systems** that go beyond model demos.
+- Improving my skills in **ML engineering** and **data-intensive applications**.
+- Exploring practical ways to turn intelligent systems into useful products.
 
 ## GitHub Activity
 
-*A lightweight animated illustration below; live contribution data is available through the link.*
-
 <div align="center">
-
-<a href="https://github.com/rodinaasfour665-ctrl?tab=overview"><img src="./assets/activity.svg" width="100%" alt="Animated activity-themed illustration; click for real GitHub contribution history"/></a>
-
-<img src="./assets/pixel-ghost.svg" width="170" alt="Animated pixel ghost companion"/>
-
-**[View my live contribution history on GitHub](https://github.com/rodinaasfour665-ctrl?tab=overview)**
-
+  <img src="./assets/activity.svg" alt="GitHub activity panel" width="100%" />
+  <br/>
+  <a href="https://github.com/rodinaasfour665-ctrl">
+    <img src="./assets/pixel-ghost.svg" alt="Animated ghost companion" width="230" />
+  </a>
 </div>
 
 ## Let's Connect
