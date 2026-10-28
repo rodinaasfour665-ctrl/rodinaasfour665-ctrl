@@ -86,12 +86,15 @@ An ML application applying feature engineering and classification to identify po
 
 ## GitHub Activity
 
+*A lightweight animated illustration below; live contribution data is available through the link.*
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodinaasfour665-ctrl&bg_color=0D1328&color=B9C7EF&line=8A8FE7&point=81C7F4&area=true&area_color=39395F&hide_border=true&radius=8" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/rodinaasfour665-ctrl?tab=overview"><img src="./assets/activity.svg" width="100%" alt="Animated activity-themed illustration; click for real GitHub contribution history"/></a>
 
-<!-- After running the Commit Pet workflow and merging its PR, the pet appears here. -->
-<img src="./commit-pet.svg" width="300" alt="Animated Commit Pet showing contribution activity"/>
+<img src="./assets/pixel-ghost.svg" width="170" alt="Animated pixel ghost companion"/>
+
+**[View my live contribution history on GitHub](https://github.com/rodinaasfour665-ctrl?tab=overview)**
 
 </div>
 
