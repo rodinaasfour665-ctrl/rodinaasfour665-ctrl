@@ -13,7 +13,7 @@ I'm Rodina, a Computer Science student at Egyptian Chinese University, intereste
 
 I also enjoy backend development and turning experiments into practical, usable systems. I'm learning and building, one project at a time.
 
-## ◎ What I'm exploring now
+##  What I'm exploring now
 
 - Building a stronger foundation in **Machine Learning**.
 - Exploring **Natural Language Processing** and **Computer Vision**.
@@ -28,7 +28,7 @@ I also enjoy backend development and turning experiments into practical, usable 
 | Backend & APIs | Django · FastAPI |
 | Data & Tools | Pandas · NumPy · Kafka · Docker · Azure · Streamlit · Git · GitHub |
 
-## ✧ Selected projects
+##  Selected projects
 
 | Project | What it's about |
 | --- | --- |
@@ -37,7 +37,7 @@ I also enjoy backend development and turning experiments into practical, usable 
 | [ISPS](https://github.com/rodinaasfour665-ctrl/ISPS-Agentic-Student-Risk-Prediction) | Agentic academic risk prediction with explainable ML, drift detection and FastAPI. |
 | [BioVerify](https://github.com/rodinaasfour665-ctrl/BioVerify-Multimodal-Biometric-Verification-System) | Research prototype combining face and voice verification with simulated command authorization. |
 
-## ↗ GitHub activity
+##  GitHub activity
 
 *A small map of my progress.*
 
