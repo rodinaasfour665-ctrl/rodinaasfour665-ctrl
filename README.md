@@ -1,34 +1,16 @@
-
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/solar-eclipse-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/solar-eclipse-light.svg">
-    <img
-      src="./assets/solar-eclipse-dark.svg"
-      alt="Welcome to my little universe. Hi, I'm Rodina."
-      width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-eclipse-dark.svg">
+    <img src="./assets/header-eclipse-light.svg" alt="Welcome to my little universe. Hi, I'm Rodina." width="100%">
   </picture>
 
   <br>
 
-<a href="https://www.linkedin.com/in/rodina-sabry-b79b95354">
-  <img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rodinaasfour665@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-92400E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
-</a>
-
-<br>
-
-<sub>rodinaasfour665@gmail.com</sub>
-
+  <a href="https://www.linkedin.com/in/rodina-sabry-b79b95354"><img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rodinaasfour665@gmail.com"><img src="https://img.shields.io/badge/Email_Me-92400E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me"></a>
+  <br>
+  <sub>rodinaasfour665@gmail.com</sub>
 </div>
-
 
 ## ✦ About me
 
@@ -61,7 +43,7 @@ I also enjoy backend development and turning experiments into practical, usable 
 | [ISPS](https://github.com/rodinaasfour665-ctrl/ISPS-Agentic-Student-Risk-Prediction) | Agentic academic risk prediction with explainable ML, drift detection and FastAPI. |
 | [BioVerify](https://github.com/rodinaasfour665-ctrl/BioVerify-Multimodal-Biometric-Verification-System) | Research prototype combining face and voice verification with simulated command authorization. |
 
-##  GitHub activity
+## ↗ GitHub activity
 
 *A small map of my progress.*
 
@@ -76,20 +58,20 @@ I also enjoy backend development and turning experiments into practical, usable 
 
 Open to collaborations, opportunities, and conversations about technology and building practical systems.
 
-[LinkedIn](https://www.linkedin.com/in/rodina-sabry-b79b95354) · [Email](mailto:rodinaasfour665@gmail.com)
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/rodina-sabry-b79b95354"><img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rodinaasfour665@gmail.com"><img src="https://img.shields.io/badge/Email_Me-92400E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me"></a>
+  <br>
+  <sub>rodinaasfour665@gmail.com</sub>
+
+</div>
 
 ---
 
-
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/closing-dark.svg">
-    <img
-      src="./assets/closing-light.svg"
-      alt="Still learning. Still building. Still becoming."
-      width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/closing-dark.svg">
+    <img src="./assets/closing-light.svg" alt="Still learning. Still building. Still becoming. Always a work in progress." width="100%">
   </picture>
 </div>
-
