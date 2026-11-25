@@ -14,9 +14,11 @@
 
 ## ✦ About me
 
-I'm Rodina, a Computer Science student at Egyptian Chinese University, interested in building things at the intersection of logic, creativity, and intelligence. My journey started with Machine Learning, and I'm now exploring how systems understand language, interpret images, and turn data into decisions.
+I'm Rodina, a Computer Science student interested in building things at the intersection of logic, creativity, and intelligence.
 
-I also enjoy backend development and turning experiments into practical, usable systems. I'm learning and building, one project at a time.
+My journey started with Machine Learning, leading me to explore how systems understand language, interpret visual information, and turn data into decisions. I also enjoy backend development and turning ideas and experiments into practical, usable systems.
+
+Currently, I'm learning, building, and exploring one project at a time.
 
 ## ◎ What I'm exploring now
 
