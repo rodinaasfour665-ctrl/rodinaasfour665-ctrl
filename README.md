@@ -43,7 +43,7 @@ I also enjoy backend development and turning experiments into practical, usable 
 | [ISPS](https://github.com/rodinaasfour665-ctrl/ISPS-Agentic-Student-Risk-Prediction) | Agentic academic risk prediction with explainable ML, drift detection and FastAPI. |
 | [BioVerify](https://github.com/rodinaasfour665-ctrl/BioVerify-Multimodal-Biometric-Verification-System) | Research prototype combining face and voice verification with simulated command authorization. |
 
-## ↗ GitHub activity
+##  GitHub activity
 
 *A small map of my progress.*
 
