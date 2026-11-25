@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 135" role="img" aria-label="Still learning. Still building. Still becoming. Always a work in progress.">
+<defs><linearGradient id="line"><stop stop-color="#92400E" stop-opacity="0"/><stop offset=".5" stop-color="#92400E"/><stop offset="1" stop-color="#92400E" stop-opacity="0"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:reduce){.moving{display:none}}</style>
+<path d="M110 25 Q450 -2 790 25" stroke="url(#line)" fill="none"/>
+<g class="moving" fill="#92400E"><path d="M0 -7L2 -2L7 0L2 2L0 7L-2 2L-7 0L-2 -2Z"/><animateMotion path="M110 25 Q450 -2 790 25" dur="7s" repeatCount="indefinite"/></g>
+<g fill="#92400E" font-family="Arial,sans-serif" font-size="24" font-weight="600" text-anchor="middle">
+<text x="244" y="66">Still learning.<animate attributeName="opacity" values="1;.55;1;1" keyTimes="0;.18;.36;1" dur="6s" begin="0s" repeatCount="indefinite"/></text>
+<text x="450" y="66">Still building.<animate attributeName="opacity" values="1;.55;1;1" keyTimes="0;.18;.36;1" dur="6s" begin="1s" repeatCount="indefinite"/></text>
+<text x="660" y="66">Still becoming.<animate attributeName="opacity" values="1;.55;1;1" keyTimes="0;.18;.36;1" dur="6s" begin="2s" repeatCount="indefinite"/></text>
+<text x="450" y="94" fill="#786345" font-size="16" font-weight="400" font-style="italic">Always a work in progress.</text><text x="450" y="119" font-size="17">✦</text></g></svg>
