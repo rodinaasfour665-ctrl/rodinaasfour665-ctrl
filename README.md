@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
     <img src="./assets/header-light.svg" alt="Welcome to my little universe. Hi, I'm Rodina." width="100%">
